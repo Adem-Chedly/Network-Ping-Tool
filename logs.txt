@@ -1,0 +1,13 @@
+
+============================================================
+Timestamp: 2025-12-16 11:19:09
+Target: google.com
+Type: domain
+Success: True
+Packets Sent: 4
+Packets Received: 4
+Packet Loss: 0.0%
+Avg Latency: 97.00 ms
+Min Latency: 62.00 ms
+Max Latency: 119.00 ms
+============================================================
